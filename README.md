@@ -83,8 +83,6 @@ Welcome to the first stable release of FlowForge! FlowForge is a professional ne
 
 ### 🖥️ Platform Support
 - **Windows** (primary platform)
-- **Linux** (experimental)
-- **macOS** (experimental)
 
 ### 🔧 CLI Mode
 - Command-line interface
