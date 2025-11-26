@@ -96,18 +96,6 @@ Welcome to the first stable release of FlowForge! FlowForge is a professional ne
 - Windows: GCC for CGO (MinGW or TDM-GCC) - Optional (for OpenGL)
 - Can be compiled without CGO using software renderer mode
 
-### Building
-
-#### Software Renderer (Recommended - No CGO required)
-```bash
-build.bat software
-```
-
-#### OpenGL Renderer (Requires GCC)
-```bash
-build.bat
-```
-
 ### Running
 
 #### GUI Mode
@@ -130,10 +118,6 @@ This software is subject to the "End User Software License Agreement" displayed 
 **GitHub**: [https://github.com/02gur](https://github.com/02gur)  
 **Programming Language**: Go (Golang)
 
-## 🐛 Known Issues
-
-- Linux and macOS support is experimental
-- Some features only work on Windows (Windivert, WinHTTP proxy)
 
 ## 🔮 Future Releases
 
